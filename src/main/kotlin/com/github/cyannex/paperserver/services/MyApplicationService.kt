@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cyannex.paperserver.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cyannex.paperserver.MyBundle
 
 class MyApplicationService {
 
